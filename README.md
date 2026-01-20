@@ -9,6 +9,14 @@ This repository includes 100+ LLM interview questions with answers.
 - 👨🏻‍💻[LLM Engineer Toolkit](https://github.com/KalyanKS-NLP/llm-engineer-toolkit) - Categories wise collection of 120+ LLM, RAG and Agent related libraries. 
 - 🩸[LLM, RAG and Agents Survey Papers Collection](https://github.com/KalyanKS-NLP/LLM-Survey-Papers-Collection) - Category wise collection of 200+ survey papers.
 
+## 🚀 LLM Interview Questions and Answers Book 
+Crack modern LLM and Generative AI interviews with this comprehensive, interview-focused guide designed specifically for ML Engineers, AI Engineers, Data Scientists and Software Engineers.
+
+This book features **100+ carefully curated LLM interview questions**, each paired with **clear answers and in-depth explanations** so you truly understand the concepts interviewers care about. [Get the book here](https://kalyanksnlp.gumroad.com/l/llm-interview-questions-answers-book-kalyan-ks). 
+
+![LLM Interview Questions and Answers Book by Kalyan KS](https://github.com/KalyanKS-NLP/llm-engineer-toolkit/blob/main/Images/LLM_Interview_QA_Book_Image_Compress.png)           
+
+
 | # | Question | Answer |
 |---|---------|--------|
 | Q1 | CNNs and RNNs don’t use positional embeddings. Why do transformers use positional embeddings? | [Answer](https://github.com/KalyanKS-NLP/LLM-Interview-Questions-and-Answers-Hub/blob/main/Interview_QA/QA_1-3.md) |
